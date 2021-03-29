@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ucharf_checkbox"
+        android:title="Üç Harf"
+        android:checkable="true" />
+    <item
+        android:id="@+id/dortharf_checkbox"
+        android:title="Dört Harf"
+        android:checkable="true" />
+    <item
+        android:id="@+id/besharf_checkbox"
+        android:title="Beş Harf"
+        android:checkable="true" />
+    <item
+        android:id="@+id/altiharf_checkbox"
+        android:title="Altı Harf"
+        android:checkable="true" />
+    <item
+        android:id="@+id/yediharf_checkbox"
+        android:title="Yedi Harf"
+        android:checkable="true" />
+    <item
+        android:id="@+id/sekizharf_checkbox"
+        android:title="Sekiz Harf"
+        android:checkable="true" />
+</menu>
