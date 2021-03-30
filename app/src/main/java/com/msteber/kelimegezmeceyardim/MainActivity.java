@@ -413,40 +413,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             popupMenu.show();
             Toast.makeText(this, "Lütfen oluşturmak istediğiniz kelimeler için harf sayısı seçin!", Toast.LENGTH_LONG).show();
         }
-        /*switch (editTextKelime.length()) {
-            case 3:
-                if (ucharfCheckbox) {
-                    donut = true;
-                } else {
-                    popupMenu.show();
-                    Toast.makeText(this, "Lütfen oluşturmak istediğiniz kelimeler için harf sayısı seçin!", Toast.LENGTH_LONG).show();
-                }
-                break;
-            case 4:
-                if (ucharfCheckbox || dortharfCheckbox) {
-                    donut = true;
-                } else {
-                    popupMenu.show();
-                    Toast.makeText(this, "Lütfen oluşturmak istediğiniz kelimeler için harf sayısı seçin!", Toast.LENGTH_LONG).show();
-                }
-                break;
-            case 5:
-                if (ucharfCheckbox || dortharfCheckbox || besharfCheckbox) {
-                    donut = true;
-                } else {
-                    popupMenu.show();
-                    Toast.makeText(this, "Lütfen oluşturmak istediğiniz kelimeler için harf sayısı seçin!", Toast.LENGTH_LONG).show();
-                }
-                break;
-            case 6:
-                if (ucharfCheckbox || dortharfCheckbox || besharfCheckbox || altiharfCheckbox) {
-                    donut = true;
-                } else {
-                    popupMenu.show();
-                    Toast.makeText(this, "Lütfen oluşturmak istediğiniz kelimeler için harf sayısı seçin!", Toast.LENGTH_LONG).show();
-                }
-                break;
-        }*/
+       
         return donut;
     }
     //Eşleşen kelimelerin veritabanından seçilerek ilgili arraylist'e aktarılmasından sonra, arraylistte olası tekrarları önlemeye yarıyor.
