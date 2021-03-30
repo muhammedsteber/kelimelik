@@ -7,7 +7,7 @@ Kısaca uygulamanın çalışma mekanizması:
 Karışık veya anlamlı bir kelime olarak verilen harflerin en az üç en fazla sekiz harf olmak üzere harf kombinasyonları oluşturularak veritabanındaki
 ilgili harf sayısına sahip kelimelerle karşılaştırılıyor ve uyuşan kelimeler ekranda listeleniyor.
 
-*Örnek:
+*Örnek:*
 
 Girilen harfler: tieka
 
