@@ -15,4 +15,4 @@ Girilen harfler: tieka
 Bu kombinasyonlarla uyuşan bazı anlamlı kelimeler: eti, kit, tik, ait, ati, ket, tek, kat, tak
 
 Dörtlü harf kombinasyonları: tiek, tiea, tika, teka, ieka
-Bu kombinasyonlarla uyuşan bazı anlamlı kelimeler: etik, etki, akit, atik, kati
+Bu kombinasyonlarla uyuşan bazı anlamlı kelimeler: etik, etki, akit, atik, kati 
